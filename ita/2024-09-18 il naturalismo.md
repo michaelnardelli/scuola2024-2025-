@@ -5,4 +5,5 @@
 - attenzione alla infuenza
 - interesse per fisoloigia e passioni 
 - ruolo della lettu
-- 
+
+si voleva che cambiasse il mondo
