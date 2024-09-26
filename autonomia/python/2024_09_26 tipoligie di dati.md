@@ -174,3 +174,11 @@ Notate che si usano le parentesi graffe per creare un dizionario e le parentesi 
 
 A causa della loro struttura interna i dizionari non supportano molti degli operatori sulle collezioni che abbiamo visto fino ad ora. Le operazioni di concatenazione, ripetizione, aggiunta di un elemento non funzionano. Per accedere più facilmente alle chiavi del dizionario possiamo usare la funzione keys(), che riporta una lista contenente tutte le chiavi del dizionario.
 
+
+
+|---------|parentesi|ordinata|indicizato|modificabile|imutabile|permettedubpabili|
+|---------|---------|--------|----------|------------|---------|-----------------|
+|list||
+|dictionary|
+|tupue|
+|set|
