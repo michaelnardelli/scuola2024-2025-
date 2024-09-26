@@ -178,7 +178,7 @@ A causa della loro struttura interna i dizionari non supportano molti degli oper
 
 |---------|parentesi|ordinata|indicizato|modificabile|imutabile|permettedubpabili|
 |---------|---------|--------|----------|------------|---------|-----------------|
-|list|[]|SI|SI|SI|NO|CHI E IL VERO BOSS?|
-|dictionary|{}|NO|NO|MUSOO|
-|tupue|{}|FORSE|SI|NO|KILL STREAK|
-|set|{}|SNI|NON|NI|VIVA IL COMUNISMO|
+|list|[]|SI|SI|SI|SI|SI|
+|dictionary|{}|NO|CHIAVE|SI|CHIAVE NO VALRESI|
+|tupue|()|FORSE|SI|NO|SI|
+|set|{}|NO|NO||
