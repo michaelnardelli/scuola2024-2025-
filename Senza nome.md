@@ -1,1 +1,0 @@
-	le lock proteggono i coddici per via del multi tredding 
