@@ -18,4 +18,5 @@ Un socket, in informatica, indica un'astrazione software progettata per utilizza
 
 ## DMZ
 posto dove si segmenta la rete
+## gg
  
