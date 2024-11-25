@@ -4,7 +4,7 @@
 
 ### Argomenti di Laboratorio
 
-#### Introduzione ai Thread in Java
+  #### Introduzione ai Thread in Java
 
 - **Lezione: Concorrenza - Java Tutorials**
 - **Definizione di Thread**: Un thread è la più piccola sequenza di istruzioni programmabili che può essere gestita indipendentemente dallo scheduler.
