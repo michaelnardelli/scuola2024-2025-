@@ -1,11 +1,6 @@
 1viene publicata nel 1881, pesso l'ediote treves di milano
 
-	giuseppe pitrè
-
-
-
-
-
+ giuseppe pitrè
 
 La famiglia Malavoglia è composta dal capofamiglia Padron 'Ntoni, i suoi figli Bastianazzo e Maruzza, e i nipoti 'Ntoni, Luca, Mena, Alessi e Lia. La loro vita ruota attorno al lavoro di pescatori e alla loro barca, la **Provvidenza**, simbolo del loro legame con il mare e del loro sostentamento.
 

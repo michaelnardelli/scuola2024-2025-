@@ -32,19 +32,27 @@
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **a** | Generazione della firma:  <br> \( e(H, K_a^-) = H' \) = firma (dove H è l'HASH, crittografato con la chiave privata \( K_a^- \))                                                       |
 | **b** | Verifica della firma:  <br> \( D(H', K_a^+) = H \) - controllo integrità (dove \( H' \) viene decifrato con la chiave pubblica \( K_a^+ \), risultando in H se il messaggio è integro) |
+
 ## controllo integirtà  
+
 1) hash(d)=H
 2) e(h,Ka^-)=H1
-	1) 
+1)
 
 ---
 
 ## Propieta  HASH
+
 1) quasi iniiettiva
-	 -  doc1=-doc2 allora HAsh1=-HASH2
-2) effetto valanga 
-	 - sensiblita alle midfiche
+
+- doc1=-doc2 allora HAsh1=-HASH2
+
+2) effetto valanga
+
+- sensiblita alle midfiche
+
 3) one-way
-	 - funzioni "botola"
-	 - uni direzzionale 
-			H-->doc
+
+- funzioni "botola"
+- uni direzzionale
+   H-->doc
