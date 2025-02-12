@@ -18,5 +18,8 @@ Un socket, in informatica, indica un'astrazione software progettata per utilizza
 ## DMZ
 
 posto dove si segmenta la rete
-
-## gg
+la parte pubblica della rete dove si puo accedere da ambo le parti sia esterno e interno
+    - interno:
+        -può accedere in tutta la rete 
+    - esterno
+        - può accedere soltanto nella dmz
