@@ -1,6 +1,11 @@
-# Appunti su Autenticazione e Interfacce Passive in OSPF
+# Autenticazione e Interfacce Passive in OSPF
 
 ---
+
+**Collegamenti al documento completo**:  
+
+- [Capitolo 1: Aree OSPF e Summarization](./10-03-2025%20ospf.md)
+- [Capitolo 2:LSA](./17-03-2024%20lsa.md.md)  
 
 ## Autenticazione in OSPF  
 
